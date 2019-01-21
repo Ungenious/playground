@@ -1,22 +1,22 @@
 # Web Bookshelf
 
 ## C
-[Strict Aliasing](https://blog.regehr.org/archives/1307) *|*
-[Cerberus](https://www.cl.cam.ac.uk/~pes20/cerberus/) *|*
-[Cerberus - Pointer Provenance](https://www.cl.cam.ac.uk/~pes20/cerberus/cerberus-popl2019.pdf) *|*
-[Word Alignment](http://web.archive.org/web/20170708093042/http://www.cs.umd.edu:80/class/sum2003/cmsc311/Notes/Data/aligned.html) *|*
+[Strict Aliasing](https://blog.regehr.org/archives/1307) **|**
+[Cerberus](https://www.cl.cam.ac.uk/~pes20/cerberus/) **|**
+[Cerberus - Pointer Provenance](https://www.cl.cam.ac.uk/~pes20/cerberus/cerberus-popl2019.pdf) **|**
+[Word Alignment](http://web.archive.org/web/20170708093042/http://www.cs.umd.edu:80/class/sum2003/cmsc311/Notes/Data/aligned.html) **|**
 [CMake tut](https://cmake.org/cmake-tutorial/)
 
 ## Apple
 ### General
-[Security Guide](https://www.apple.com/business/site/docs/iOS_Security_Guide.pdf) *|* 
-[Image & Graphics - WWDC Video](https://developer.apple.com/videos/play/wwdc2018/219/) *|*
-[Debugging - WWDC Video](https://developer.apple.com/videos/play/wwdc2018/412/) *|*
+[Security Guide](https://www.apple.com/business/site/docs/iOS_Security_Guide.pdf) **|**
+[Image & Graphics - WWDC Video](https://developer.apple.com/videos/play/wwdc2018/219/) **|**
+[Debugging - WWDC Video](https://developer.apple.com/videos/play/wwdc2018/412/) **|**
 [LLVM - WWDC Video](https://developer.apple.com/videos/play/wwdc2018/409/)
 
 ### tvOS
-[Remote Protocol - SO](https://stackoverflow.com/questions/35355807/has-anyone-reversed-engineered-the-protocol-used-by-apples-ios-remote-app-for-c) *|*
-[Remote Protocol - etc.](https://eldino.wordpress.com/2007/06/25/enit-daap-dawhat-daap-dache-cosa/) *|*
+[Remote Protocol - SO](https://stackoverflow.com/questions/35355807/has-anyone-reversed-engineered-the-protocol-used-by-apples-ios-remote-app-for-c) **|**
+[Remote Protocol - etc.](https://eldino.wordpress.com/2007/06/25/enit-daap-dawhat-daap-dache-cosa/) **|**
 [Remote Protocol - etc.](https://askubuntu.com/questions/124352/can-i-connect-to-itunes-music-shares-using-amarok)
 
 
