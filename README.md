@@ -22,6 +22,7 @@
 
 ## POSIX
 [Decoded Coreutils](http://www.maizure.org/projects/decoded-gnu-coreutils/) **|**
+[Coreutils Unicode](https://crashcourse.housegordon.org/coreutils-multibyte-support.html) **|**
 [SUSv4](http://www.unix.org/version4/)
 
 
