@@ -28,11 +28,14 @@
 ## Text
 [Atom CRDT and Trees](https://google.com) **|**
 [Xi Editor CRDT](https://github.com/xi-editor/xi-editor/blob/e8065a3993b80af0aadbca0e50602125d60e4e38/doc/crdt-details.md) |
+[Xi Editor - HN Post](https://news.ycombinator.com/item?id=17742071) **|**
 [CRDTs](http://archagon.net/blog/2018/03/24/data-laced-with-history/) **|**
 [OT & CRDT](https://medium.com/@raphlinus/towards-a-unified-theory-of-operational-transformation-and-crdt-70485876f72f) 
 
 
 ## Other
+[Adventure](https://www.filfre.net/2011/05/will-crowthers-adventure-part-1/) **|**
+[Aristotle Poetics - Wiki](https://en.wikipedia.org/wiki/Poetics_(Aristotle)) **|**
 [libuv - threads](https://nikhilm.github.io/uvbook/threads.html) **|**
 [libuv - uv_handle_t](http://docs.libuv.org/en/v1.x/handle.html#c.uv_handle_t) **|**
 [Apple Runloops](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/Multithreading/RunLoopManagement/RunLoopManagement.html) **|**
