@@ -21,24 +21,24 @@
 
 
 ## POSIX
-[Decoded Coreutils](http://www.maizure.org/projects/decoded-gnu-coreutils/) |
+[Decoded Coreutils](http://www.maizure.org/projects/decoded-gnu-coreutils/) **|**
 [SUSv4](http://www.unix.org/version4/)
 
 
 ## Text
-[Atom CRDT and Trees](https://google.com) | 
+[Atom CRDT and Trees](https://google.com) **|**
 [Xi Editor CRDT](https://github.com/xi-editor/xi-editor/blob/e8065a3993b80af0aadbca0e50602125d60e4e38/doc/crdt-details.md) |
-[CRDTs](http://archagon.net/blog/2018/03/24/data-laced-with-history/) |
+[CRDTs](http://archagon.net/blog/2018/03/24/data-laced-with-history/) **|**
 [OT & CRDT](https://medium.com/@raphlinus/towards-a-unified-theory-of-operational-transformation-and-crdt-70485876f72f) 
 
 
 ## Other
-[libuv - threads](https://nikhilm.github.io/uvbook/threads.html) |
-[libuv - uv_handle_t](http://docs.libuv.org/en/v1.x/handle.html#c.uv_handle_t) |
-[Apple Runloops](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/Multithreading/RunLoopManagement/RunLoopManagement.html) |
-[JOS DFT](https://ccrma.stanford.edu/~jos/Welcome.html) |
-[Digital Show & Tell](https://xiph.org/video/vid2.shtml) |
-[Treaty of Orlando](http://web.media.mit.edu/~lieber/Publications/Treaty-of-Orlando-Chapter.pdf) |
-[Y Combinator](https://eli.thegreenplace.net/2016/some-notes-on-the-y-combinator/) |
+[libuv - threads](https://nikhilm.github.io/uvbook/threads.html) **|**
+[libuv - uv_handle_t](http://docs.libuv.org/en/v1.x/handle.html#c.uv_handle_t) **|**
+[Apple Runloops](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/Multithreading/RunLoopManagement/RunLoopManagement.html) **|**
+[JOS DFT](https://ccrma.stanford.edu/~jos/Welcome.html) **|**
+[Digital Show & Tell](https://xiph.org/video/vid2.shtml) **|**
+[Treaty of Orlando](http://web.media.mit.edu/~lieber/Publications/Treaty-of-Orlando-Chapter.pdf) **|**
+[Y Combinator](https://eli.thegreenplace.net/2016/some-notes-on-the-y-combinator/) **|**
 [Carry-lookahead](https://en.wikipedia.org/wiki/Carry-lookahead_adder)
 
