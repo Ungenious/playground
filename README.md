@@ -31,7 +31,7 @@
 [Xi Editor - HN Post](https://news.ycombinator.com/item?id=17742071) **|**
 [CRDTs](http://archagon.net/blog/2018/03/24/data-laced-with-history/) **|**
 [OT & CRDT](https://medium.com/@raphlinus/towards-a-unified-theory-of-operational-transformation-and-crdt-70485876f72f) 
-
+[CRDT Overview - HAL](https://hal.inria.fr/inria-00555588/document)
 
 ## Other
 [Adventure](https://www.filfre.net/2011/05/will-crowthers-adventure-part-1/) **|**
