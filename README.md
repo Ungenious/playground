@@ -1,11 +1,15 @@
 # Web Bookshelf
 
-## C
+## C/C++
+[Dr. Dobbs - Plugins](http://www.drdobbs.com/cpp/building-your-own-plugin-framework-part/204202899) **|**
 [Strict Aliasing](https://blog.regehr.org/archives/1307) **|**
 [Cerberus](https://www.cl.cam.ac.uk/~pes20/cerberus/) **|**
 [Cerberus - Pointer Provenance](https://www.cl.cam.ac.uk/~pes20/cerberus/cerberus-popl2019.pdf) **|**
 [Word Alignment](http://web.archive.org/web/20170708093042/http://www.cs.umd.edu:80/class/sum2003/cmsc311/Notes/Data/aligned.html) **|**
 [CMake tut](https://cmake.org/cmake-tutorial/)
+
+## Games
+[Networking](https://gafferongames.com/categories/game-networking/) **|**
 
 ## Apple
 ### General
@@ -35,6 +39,7 @@
 [CRDT Overview - HAL](https://hal.inria.fr/inria-00555588/document)
 
 ## Other
+[Alan Kay](https://tinlizzie.org/IA/index.php/Talks_by_Alan_Kay) **|**
 [Adventure](https://www.filfre.net/2011/05/will-crowthers-adventure-part-1/) **|**
 [Aristotle Poetics - Wiki](https://en.wikipedia.org/wiki/Poetics_(Aristotle)) **|**
 [libuv - threads](https://nikhilm.github.io/uvbook/threads.html) **|**
